@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "main/base/thunderban/mixin/BanCommandMixin": {
+      "Lnet/minecraft/server/command/ServerCommandSource;sendFeedback(Lnet/minecraft/text/Text;Z)V": "Lnet/minecraft/class_2168;method_9226(Lnet/minecraft/class_2561;Z)V",
+      "ban": "Lnet/minecraft/class_3016;method_13022(Lnet/minecraft/class_2168;Ljava/util/Collection;Lnet/minecraft/class_2561;)I"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "main/base/thunderban/mixin/BanCommandMixin": {
+        "Lnet/minecraft/server/command/ServerCommandSource;sendFeedback(Lnet/minecraft/text/Text;Z)V": "Lnet/minecraft/class_2168;method_9226(Lnet/minecraft/class_2561;Z)V",
+        "ban": "Lnet/minecraft/class_3016;method_13022(Lnet/minecraft/class_2168;Ljava/util/Collection;Lnet/minecraft/class_2561;)I"
+      }
+    }
+  }
+}

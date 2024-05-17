@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "main.base.thunderban.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BanCommandMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "b6s-thunderban-refmap.json"
+}
